@@ -21,4 +21,4 @@ Afterwards enter the following command to build and install dmenu
 
 Running dmenu
 -------------
-See the man page for details.
+See the main page for details.
